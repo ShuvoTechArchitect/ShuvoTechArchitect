@@ -80,7 +80,6 @@ Here are some of my notable projects:
 ### 🤝 Let's Connect! Feel free to reach out for collaboration or just to connect! 
 
 - **Email:** [shuvohasan791@gmail.com]
-(mailto:shuvohasan791@gmail.com)
 - **LinkedIn:** [Your LinkedIn Profile](#)
 - **Portfolio:** [Your Portfolio Link](#)
 
