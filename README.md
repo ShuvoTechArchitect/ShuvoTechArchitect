@@ -38,27 +38,23 @@ dedicated to designing innovative and scalable software solutions. My expertise 
 <img src="https://e7.pngegg.com/pngimages/330/276/png-clipart-bash-shell-script-bourne-shell-scripting-language-unix-shell-shell-rectangle-logo.png" alt="bash" width="100" height="100"/> 
 </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-<img src="https://iconscout.com/lottie-animation/python-logo-12036614" alt="python" width="100" height="100"/> 
+<img src="https://i.ibb.co.com/W3pBhP0/clipart396037.png" alt="python" width="100" height="100"/> 
+</a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+<img src="https://i.ibb.co.com/rpQm5Np/0-t93-Y3-Lr-Mvw4v-k-Gy.gif" alt="golang" width="100" height="100"/> 
 </a> 
-<a href="[https://www.python.org](https://www.python.org/)" target="_blank" rel="noreferrer"> 
-<img src="https://1.giphy.com/media/KAq5w47R9rmTuvWOwa/giphy-webp" alt="python" width="100" height="100"/>
-</a> 
-<a href="[https://golang.org)(https://golang.org/)" target="_blank" rel="noreferrer"> 
-<img src="https://perisync.com/images/gocc.gif" alt="golang" width="100" height="100"/> 
-</a>
 </p> 
 
 ### 🔧 Technologies I Love
 
 <p align=" left">
 <a href="[https://aws.amazon.com](https://aws.amazon.com/)" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="aws" width="200" height="200"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="aws" width="160" height="160"/> 
 </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="azure" width="200" height="200"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="azure" width="160" height="160"/> 
 </a> 
 <a href="[https://cloud.google.com](https://cloud.google.com/)" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="gcp" width="200" height="200"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="gcp" width="160" height="160"/> 
 </a>
 </р> 
 
@@ -70,11 +66,14 @@ dedicated to designing innovative and scalable software solutions. My expertise 
 
 --- 
 
-### 💼 Notable Projects Here are some of my notable projects: 
-| Project Name | Description | Link | 
-| Project 1 | Brief description of Project 1 | [View Project](#) | 
-| Project 2 | Brief description of Project 2 | [View Project](#) | 
-| Project 3 | Brief description of Project 3 | [View Project](#) | 
+### 💼 Notable Projects
+Here are some of my notable projects: 
+            
+            | Project Name | Description | Link |
+
+- | Project 1 | Brief description of Project 1 | [View Project] |
+- | Project 2 | Brief description of Project 2 | [View Project] |
+- | Project 3 | Brief description of Project 3 | [View Project] |
 
 --- 
 
@@ -83,7 +82,7 @@ dedicated to designing innovative and scalable software solutions. My expertise 
 - **Email:** [shuvohasan791@gmail.com]
 (mailto:shuvohasan791@gmail.com)
 - **LinkedIn:** [Your LinkedIn Profile](#)
-- - **Portfolio:** [Your Portfolio Link](#)
+- **Portfolio:** [Your Portfolio Link](#)
 
 --- 
 
@@ -105,7 +104,6 @@ I regularly write articles on technology and software development. Check them ou
 
 --- 
 
-![Footer Image](https://via.placeholder.com/1200x200?text=Thank+you+for+visiting!)
-<img align="right" height="290" width="1010" src="https://i.ibb.co.com/dpYhkRP/Untitled-design.png"/><!-- Replace with your footer image URL --> 
+<img align="right" height="200" width="1020" src="https://i.ibb.co.com/nPWDXCd/2024-10-07-Thank-you-for-visiting.gif"/><!-- Replace with your footer image URL --> 
 
 Feel free to explore my projects and reach out if you’d like to collaborate or chat about technology!
