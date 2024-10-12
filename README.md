@@ -91,7 +91,7 @@ You can view my experiences and skills in detail here: [Resume Link](#)
 --- 
 
 ### 📚 Blog 
-I regularly write articles on technology and software development. Check them out here: [Blog Link](#) 
+I regularly write articles on technology and software development. Check them out here: [https://shuvo-tech-insights.blogspot.com/] 
 
 --- 
 
