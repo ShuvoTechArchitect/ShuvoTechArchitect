@@ -81,7 +81,7 @@ Here are some of my notable projects:
 
 - **Email:** [shuvohasan791@gmail.com]
 - **LinkedIn:** [www.linkedin.com/in/shuvotecharchitect/]
-- **Portfolio:** [Your Portfolio Link](#)
+- **Portfolio:** [https://shuvotecharchitect.netlify.app/]
 
 --- 
 
