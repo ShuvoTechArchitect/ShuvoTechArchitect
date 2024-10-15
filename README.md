@@ -78,14 +78,14 @@ Here are some of my notable projects:
 ### 🤝 Let's Connect!
 Feel free to reach out for collaboration or just to connect!
 
-- **Email:** [shuvohasan791@gmail.com](mailto:shuvohasan791@gmail.com)
-- **LinkedIn:** [www.linkedin.com/in/shuvotecharchitect/](https://www.linkedin.com/in/shuvotecharchitect/)
-- **Portfolio:** [shuvotecharchitect.netlify.app](https://shuvotecharchitect.netlify.app)
+- **Email:** [ShuvoTechArchitect.Mail](mailto:shuvohasan791@gmail.com)
+- **LinkedIn:** [ShuvoTechArchitect.LinkedIn](https://www.linkedin.com/in/shuvotecharchitect/)
+- **Portfolio:** [ShuvoTechArchitect.Portfolio](https://shuvotecharchitect.netlify.app)
 
 ---
 
 ### 📄 Resume
-You can view my experiences and skills in detail here: [Resume Link](#)
+You can view my experiences and skills in detail here: [Resume](#)
 
 ---
 
@@ -102,6 +102,6 @@ I regularly write articles on technology and software development. Check them ou
 
 ---
 
-<img align="right" height="200" width="1010" src="https://i.ibb.co/nPWDXCd/2024-10-07-Thank-you-for-visiting.gif" /> <!-- Replace with your footer image URL -->
+<img align="right" height="200" width="1010" src="https://i.ibb.co/nPWDXCd/2024-10-07-Thank-you-for-visiting.gif" /> 
 
 Feel free to explore my projects and reach out if you’d like to collaborate or chat about technology!
