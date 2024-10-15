@@ -3,7 +3,15 @@
 <img align="right" height="290" width="1010" src="https://i.ibb.co/dpYhkRP/Untitled-design.png" />
 
 ### About Me
-I am a passionate **Tech Architect** dedicated to designing innovative and scalable software solutions. My expertise lies in system architecture, cloud technologies, and agile methodologies. I thrive on turning complex challenges into elegant designs.
+Sure! Here’s a more concise version:
+
+---
+
+As a **Software Engineer** and **Tech Architect** passionate about building innovative web applications. With expertise in front-end technologies like React and back-end frameworks such as Node.js, I focus on delivering high-quality, user-centric solutions. I thrive on tackling complex challenges and optimizing application performance while adhering to best practices in code quality and development processes. Let’s connect to share insights or explore collaboration opportunities!
+
+--- 
+
+Feel free to tweak it further!
 
 ---
 
