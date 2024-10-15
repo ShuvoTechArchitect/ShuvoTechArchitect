@@ -3,15 +3,7 @@
 <img align="right" height="290" width="1010" src="https://i.ibb.co/dpYhkRP/Untitled-design.png" />
 
 ### About Me
-Sure! Here’s a more concise version:
-
----
-
 As a **Software Engineer** and **Tech Architect** passionate about building innovative web applications. With expertise in front-end technologies like React and back-end frameworks such as Node.js, I focus on delivering high-quality, user-centric solutions. I thrive on tackling complex challenges and optimizing application performance while adhering to best practices in code quality and development processes. Let’s connect to share insights or explore collaboration opportunities!
-
---- 
-
-Feel free to tweak it further!
 
 ---
 
@@ -25,43 +17,104 @@ Feel free to tweak it further!
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-### ☁️ Cloud Technologies
+## ☁️ Cloud Technologies
 <p align="left">
+<!-- AWS -->
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
 <img src="https://www.logigroup.com/images/Logo_aws.gif" alt="aws" width="80" height="80"/>
 </a>
+**AWS**
+
+<!-- Azure -->
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="80" height="80"/>
 </a>
+**Azure**
+  
+<!-- GCP -->
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
 <img src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" alt="gcp" width="80" height="80"/>
 </a>
-</p>
+**GCP**
 
-### 🐍 Scripting Languages
-<p align="left">
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-<img src="https://e7.pngegg.com/pngimages/330/276/png-clipart-bash-shell-script-bourne-shell-scripting-language-unix-shell-shell-rectangle-logo.png" alt="bash" width="100" height="100"/>
-</a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://i.ibb.co/W3pBhP0/clipart396037.png" alt="python" width="100" height="100"/>
-</a>
-<a href="https://golang.org/" target="_blank" rel="noreferrer">
-<img src="https://i.ibb.co/rpQm5Np/0-t93-Y3-Lr-Mvw4v-k-Gy.gif" alt="golang" width="100" height="100"/>
-</a>
-</p>
-
-### 🔧 Technologies I Love
-<p align="left">
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="160" height="160"/>
-</a>
+<!-- Docker -->
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="160" height="160"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="80"/>
 </a>
+**Docker**
+
+<!-- Kubernetes -->
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" width="160" height="160"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" width="80" height="80"/>
 </a>
+**Kubernetes**
+</p>
+
+---
+
+## 🐍 Scripting Languages
+<p align="left">
+<!-- Bash -->
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+<img src="https://e7.pngegg.com/pngimages/330/276/png-clipart-bash-shell-script-bourne-shell-scripting-language-unix-shell-shell-rectangle-logo.png" alt="bash" width="80" height="80"/>
+</a>
+**Bash**
+<!-- Python -->
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://i.ibb.co/W3pBhP0/clipart396037.png" alt="python" width="80" height="80"/>
+</a>
+**Python**
+
+<!-- Golang -->
+<a href="https://golang.org/" target="_blank" rel="noreferrer">
+<img src="https://i.ibb.co/rpQm5Np/0-t93-Y3-Lr-Mvw4v-k-Gy.gif" alt="golang" width="80" height="80"/>
+</a>
+**Go (Golang)**
+</p>
+---
+
+## 🔧 Technologies I Love
+<p align="left">
+<!-- Django -->
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="100" height="100"/>
+</a>
+**Django**
+
+<!-- React.js -->
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="100" height="100"/>
+</a>
+**React.js**
+<!-- MongoDB -->
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="100" height="100"/>
+</a>
+**MongoDB**
+
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="100" height="100"/>
+</a>
+**PostgreSQL**
+
+<!-- GitHub -->
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" width="100" height="100"/>
+</a>
+**GitHub**
+
+<!-- Jest -->
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+<img src="https://jestjs.io/img/jest.png" alt="jest" width="100" height="100"/>
+</a>
+**Jest**
+
+<!-- Cypress -->
+<a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+<img src="https://docs.cypress.io/img/favicon.png" alt="cypress" width="100" height="100"/>
+</a>
+**Cypress**
 </p>
 
 ---
