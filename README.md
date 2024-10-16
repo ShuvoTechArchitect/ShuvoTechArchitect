@@ -3,14 +3,18 @@
 <img align="right" height="290" width="1010" src="https://i.ibb.co/dpYhkRP/Untitled-design.png" />
 
 ### About Me
-As a **Software Engineer** and **Tech Architect** passionate about building innovative web applications. With expertise in front-end technologies like React and back-end frameworks such as Node.js, I focus on delivering high-quality, user-centric solutions. I thrive on tackling complex challenges and optimizing application performance while adhering to best practices in code quality and development processes. Let’s connect to share insights or explore collaboration opportunities!
+As a **Software Engineer** and **Tech Architect** passionate about building innovative web applications. With expertise in front-end technologies like React and back-end frameworks such as Node.js, I focus on delivering high-quality, user-centric solutions. I thrive on tackling complex challenges and optimizing application performance while adhering to best practices in code quality and development processes.
 
 ---
 
 ### 🌐 What I Do
-- **Architecting** robust and efficient software systems
-- **Leveraging** cloud platforms to optimize performance
-- **Collaborating** with cross-functional teams to deliver high-quality products
+
+- **Full-Stack Development:** I build responsive and dynamic web applications using modern frameworks and technologies. My expertise includes:
+- **Front-End:** Creating engaging user interfaces with React.js and Vue.js, utilizing HTML5, CSS3, and JavaScript.
+- **Back-End:** Developing robust server-side applications with Node.js, Django, and Express.js. I design and implement RESTful APIs and GraphQL services.
+- **Database Management:** Proficient in working with various databases like MongoDB, PostgreSQL, and Firebase for data storage and retrieval.
+- **DevOps Practices:** I implement CI/CD pipelines and utilize cloud services like AWS, Azure, and GCP to ensure seamless deployment and scalability of applications.
+- **Quality Assurance:** I prioritize code quality through unit testing (Jest, Mocha) and end-to-end testing (Cypress, Selenium), ensuring reliable software delivery.
 
 ---
 
@@ -59,6 +63,7 @@ As a **Software Engineer** and **Tech Architect** passionate about building inno
 <img src="https://e7.pngegg.com/pngimages/330/276/png-clipart-bash-shell-script-bourne-shell-scripting-language-unix-shell-shell-rectangle-logo.png" alt="bash" width="80" height="80"/>
 </a>
 **Bash**
+  
 <!-- Python -->
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 <img src="https://i.ibb.co/W3pBhP0/clipart396037.png" alt="python" width="80" height="80"/>
@@ -71,6 +76,7 @@ As a **Software Engineer** and **Tech Architect** passionate about building inno
 </a>
 **Go (Golang)**
 </p>
+
 ---
 
 ## 🔧 Technologies I Love
@@ -86,6 +92,7 @@ As a **Software Engineer** and **Tech Architect** passionate about building inno
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="100" height="100"/>
 </a>
 **React.js**
+
 <!-- MongoDB -->
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="100" height="100"/>
@@ -109,19 +116,17 @@ As a **Software Engineer** and **Tech Architect** passionate about building inno
 <img src="https://jestjs.io/img/jest.png" alt="jest" width="100" height="100"/>
 </a>
 **Jest**
-
-<!-- Cypress -->
-<a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-<img src="https://docs.cypress.io/img/favicon.png" alt="cypress" width="100" height="100"/>
-</a>
-**Cypress**
 </p>
 
 ---
 
 ### 🌱 Currently Exploring
-- Microservices architecture
-- AI-driven applications
+
+- **Microservices Architecture:** I'm diving into designing applications using microservices for better scalability and maintainability.
+- **DevOps Tools:** Currently learning about Docker and Kubernetes for containerization and orchestration to enhance my deployment processes.
+- **User Experience (UX) Design:** Exploring UX principles to create more intuitive interfaces and improve user satisfaction.
+- **GraphQL:** Gaining deeper knowledge in GraphQL for efficient data fetching and improved performance in applications.
+- **Performance Optimization:** Investigating techniques for optimizing application performance, including code splitting, lazy loading, and caching strategies. 
 
 ---
 
