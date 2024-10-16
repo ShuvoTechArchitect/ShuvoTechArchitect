@@ -3,7 +3,7 @@
 <img align="right" height="290" width="1010" src="https://i.ibb.co/dpYhkRP/Untitled-design.png" />
 
 ### About Me
-As a **Software Engineer** and **Tech Architect** passionate about building innovative web applications. With expertise in front-end technologies like React and back-end frameworks such as Node.js, I focus on delivering high-quality, user-centric solutions. I thrive on tackling complex challenges and optimizing application performance while adhering to best practices in code quality and development processes.
+As a **Software Engineer** passionate about building innovative web applications. With expertise in front-end technologies like React and back-end frameworks such as Node.js, I focus on delivering high-quality, user-centric solutions. I thrive on tackling complex challenges and optimizing application performance while adhering to best practices in code quality and development processes.
 
 ---
 
